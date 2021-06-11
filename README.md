@@ -11,3 +11,4 @@
 - copy index.js code from index.js in react-electron-boilerplate
 - copy app.js code from stardew-bundle-tracker
 - in main.js, ensure mainWindow.loadURL(`file://${path.join(__dirname, '../renderer/index.html')}`);
+- https://www.freecodecamp.org/news/building-an-electron-application-with-create-react-app-97945861647c/
