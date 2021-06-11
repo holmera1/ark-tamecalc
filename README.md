@@ -10,3 +10,4 @@
 - add componenets folder into renderer folder
 - copy index.js code from index.js in react-electron-boilerplate
 - copy app.js code from stardew-bundle-tracker
+- mainWindow.loadURL(`file://${path.join(__dirname, './index.html')}`);
