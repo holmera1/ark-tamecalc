@@ -1,4 +1,4 @@
-# ark-tamecalc
+# electron-react-template
 
 - yarn create electron-app my-app
 - add "electron": "electron ." script in package.json
